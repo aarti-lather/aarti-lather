@@ -39,10 +39,10 @@
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html-5"/> 
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"/>
-    <img src="https://i.ibb.co/xfHMmbP/icons8-mysql-logo-48.png" alt="MySql"/> 
+    <img src="https://i.ibb.co/xfHMmbP/icons8-mysql-logo-48.png" alt="MySql"  width="60" height="60"/> 
    <img src="https://i.ibb.co/dP5zfdY/icons8-java-64.png" alt="icons8-java-64" alt="Java"/> 
     <img src="https://i.ibb.co/Jt5kpWr/icons8-spring-logo-48.png" alt="spring" width="48" height="48"/>
-     <img src="https://i.ibb.co/pwqXvQc/cli1.png" alt="CLI" width="48" height="48"/>
+     <img src="https://i.ibb.co/pwqXvQc/cli1.png" alt="CLI" width="43" height="43"/>
 <!--     <img src="https://img.icons8.com/officel/80/000000/react.png" alt="reactjs"  width="48" height="48"/> -->
 <!--     <img src="https://img.icons8.com/color/48/000000/npm.png"  alt="npm"/>    -->
 <!--     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" alt="postman"/> -->
