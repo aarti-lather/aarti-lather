@@ -11,10 +11,7 @@
 <a href="https://www.linkedin.com/in/aartilather/">
   <img align="left" alt="Aarti Lather LinkedIn Profile" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<!--  <a href="https://twitter.com/ShivamSwami03">
-  <img align="left" alt="Shivam Swami | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a> -->
-  <!-- <img align='right' src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="400"> -->
+
 
 <br/>
 
@@ -22,7 +19,7 @@
 
 
 ## About Me
-<img align='right' src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="400">
+<img align='right' src="https://i.pinimg.com/originals/a8/16/84/a816844695fa49287a0d3460378669f6.gif" width="400">
 <b style="font-weight:bold">Enthusiastic</b> and <b style="font-weight:bold">challenge-driven</b> graduate from Masai School specializing in full-stack web development. Skilled in <b style="font-weight:bold">Java, HTML, CSS, JavaScript.</b> Looking forward to an exciting opportunity to work at a growing organization to enhance the skill set.
 
 
@@ -37,14 +34,15 @@
  <br>
  
 ## 🚀 Languages and Tools:
- <img align="right" alt="GIF" clear = "both" src="https://quantumhunts.com/user/assets/images/hero/hiring-manager-quantumhunts.gif" width="400" height="250" />
+ <img align="right" alt="GIF" clear = "both" src="https://i.pinimg.com/originals/4a/70/5e/4a705e028bb9f5d50995e68c791fb10a.gif" width="400" height="250" />
 <p align="left"> 
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html-5"/> 
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"/>
-<!--     <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs"/>  -->
-<!--     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> -->
-<!--      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS7RVaKE0ubjH_Ioi90MHiDzKw-GpNI1BsHw&usqp=CAU" alt="express" width="48" height="48"/> -->
+    <img src="https://i.ibb.co/xfHMmbP/icons8-mysql-logo-48.png" alt="MySql"/> 
+   <img src="https://i.ibb.co/dP5zfdY/icons8-java-64.png" alt="icons8-java-64" alt="Java"/> 
+    <img src="https://i.ibb.co/Jt5kpWr/icons8-spring-logo-48.png" alt="spring" width="48" height="48"/>
+     <img src="https://i.ibb.co/pwqXvQc/cli1.png" alt="CLI" width="48" height="48"/>
 <!--     <img src="https://img.icons8.com/officel/80/000000/react.png" alt="reactjs"  width="48" height="48"/> -->
 <!--     <img src="https://img.icons8.com/color/48/000000/npm.png"  alt="npm"/>    -->
 <!--     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" alt="postman"/> -->
